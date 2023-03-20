@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on Food Mania Website which is food a ordering Website.
+- 🔭 I’m currently working on Food Mania Website which is a food ordering Website.
 - 🌱 I’m currently polishing my React.js skills (Enrolled in Namaste React Live Course by Akshay Saini).
 - 👯 I’m looking to collaborate in Open source Projects.
 - 💬 Ask me about HTML, CSS, JavaScript, React, Redux, CSS Frameworks and Front-end development.
